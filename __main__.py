@@ -1,5 +1,5 @@
-# from card_deck import main
-# try:
-#     main()
-# except:
-#     print("\nYou broke my game!")
+from card_deck import main
+try:
+    main()
+except:
+    print("\nYou broke my game!")
